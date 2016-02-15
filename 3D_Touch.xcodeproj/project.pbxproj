@@ -17,6 +17,7 @@
 		46B6E89B1C70A18700B77D76 /* _D_TouchUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 46B6E89A1C70A18700B77D76 /* _D_TouchUITests.m */; };
 		46B6E8AA1C70A72F00B77D76 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46B6E8A91C70A72F00B77D76 /* SecondViewController.m */; };
 		46B6E8AD1C70A99A00B77D76 /* SearchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 46B6E8AC1C70A99A00B77D76 /* SearchView.m */; };
+		46EF1FA91C7169DB00AF21BC /* 录屏2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 46EF1FA81C7169DB00AF21BC /* 录屏2.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		46B6E8A91C70A72F00B77D76 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		46B6E8AB1C70A99A00B77D76 /* SearchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchView.h; sourceTree = "<group>"; };
 		46B6E8AC1C70A99A00B77D76 /* SearchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchView.m; sourceTree = "<group>"; };
+		46EF1FA81C7169DB00AF21BC /* 录屏2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "录屏2.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		46B6E8741C70A18700B77D76 /* 3D_Touch */ = {
 			isa = PBXGroup;
 			children = (
+				46EF1FA81C7169DB00AF21BC /* 录屏2.gif */,
 				46B6E8781C70A18700B77D76 /* AppDelegate.h */,
 				46B6E8791C70A18700B77D76 /* AppDelegate.m */,
 				46B6E87B1C70A18700B77D76 /* ViewController.h */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				46B6E8851C70A18700B77D76 /* LaunchScreen.storyboard in Resources */,
+				46EF1FA91C7169DB00AF21BC /* 录屏2.gif in Resources */,
 				46B6E8821C70A18700B77D76 /* Assets.xcassets in Resources */,
 				46B6E8801C70A18700B77D76 /* Main.storyboard in Resources */,
 			);
@@ -511,6 +515,7 @@
 				46B6E8A11C70A18700B77D76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		46B6E8A21C70A18700B77D76 /* Build configuration list for PBXNativeTarget "3D_TouchTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +524,7 @@
 				46B6E8A41C70A18700B77D76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		46B6E8A51C70A18700B77D76 /* Build configuration list for PBXNativeTarget "3D_TouchUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +533,7 @@
 				46B6E8A71C70A18700B77D76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
