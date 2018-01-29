@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		463C0080201ED021007F4C69 /* aaaTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 463C007F201ED021007F4C69 /* aaaTableViewCell.m */; };
 		46B6E8771C70A18700B77D76 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 46B6E8761C70A18700B77D76 /* main.m */; };
 		46B6E87A1C70A18700B77D76 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 46B6E8791C70A18700B77D76 /* AppDelegate.m */; };
 		46B6E87D1C70A18700B77D76 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46B6E87C1C70A18700B77D76 /* ViewController.m */; };
@@ -38,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		463C007E201ED021007F4C69 /* aaaTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = aaaTableViewCell.h; sourceTree = "<group>"; };
+		463C007F201ED021007F4C69 /* aaaTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = aaaTableViewCell.m; sourceTree = "<group>"; };
 		46B6E8721C70A18700B77D76 /* 3D_Touch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 3D_Touch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46B6E8761C70A18700B77D76 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		46B6E8781C70A18700B77D76 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -114,6 +117,8 @@
 				46B6E8791C70A18700B77D76 /* AppDelegate.m */,
 				46B6E87B1C70A18700B77D76 /* ViewController.h */,
 				46B6E87C1C70A18700B77D76 /* ViewController.m */,
+				463C007E201ED021007F4C69 /* aaaTableViewCell.h */,
+				463C007F201ED021007F4C69 /* aaaTableViewCell.m */,
 				46B6E8A81C70A72F00B77D76 /* SecondViewController.h */,
 				46B6E8A91C70A72F00B77D76 /* SecondViewController.m */,
 				46B6E8AB1C70A99A00B77D76 /* SearchView.h */,
@@ -290,6 +295,7 @@
 				46B6E8AA1C70A72F00B77D76 /* SecondViewController.m in Sources */,
 				46B6E87D1C70A18700B77D76 /* ViewController.m in Sources */,
 				46B6E87A1C70A18700B77D76 /* AppDelegate.m in Sources */,
+				463C0080201ED021007F4C69 /* aaaTableViewCell.m in Sources */,
 				46B6E8AD1C70A99A00B77D76 /* SearchView.m in Sources */,
 				46B6E8771C70A18700B77D76 /* main.m in Sources */,
 			);
